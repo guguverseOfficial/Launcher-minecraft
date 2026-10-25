@@ -1,0 +1,6 @@
+Guguverse_Minecraft/
+launcher_config.json
+__pycache__/
+*.pyc
+venv/
+*.log
